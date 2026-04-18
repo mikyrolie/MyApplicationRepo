@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>Travel Around the World</title>
+<title>Travel Around the World myself</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <style>
